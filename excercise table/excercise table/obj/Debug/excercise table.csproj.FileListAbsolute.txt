@@ -1,0 +1,41 @@
+D:\C#\excercise table\excercise table\bin\Debug\excercise table.exe.config
+D:\C#\excercise table\excercise table\bin\Debug\excercise table.exe
+D:\C#\excercise table\excercise table\bin\Debug\excercise table.pdb
+D:\C#\excercise table\excercise table\bin\Debug\MySql.Data.dll
+D:\C#\excercise table\excercise table\bin\Debug\MySql.Web.dll
+D:\C#\excercise table\excercise table\bin\Debug\Google.Protobuf.dll
+D:\C#\excercise table\excercise table\bin\Debug\ZstdNet.dll
+D:\C#\excercise table\excercise table\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\C#\excercise table\excercise table\bin\Debug\BouncyCastle.Crypto.dll
+D:\C#\excercise table\excercise table\bin\Debug\Ubiety.Dns.Core.dll
+D:\C#\excercise table\excercise table\bin\Debug\System.Memory.dll
+D:\C#\excercise table\excercise table\bin\Debug\System.Buffers.dll
+D:\C#\excercise table\excercise table\bin\Debug\K4os.Compression.LZ4.dll
+D:\C#\excercise table\excercise table\bin\Debug\K4os.Hash.xxHash.dll
+D:\C#\excercise table\excercise table\bin\Debug\MySql.Data.xml
+D:\C#\excercise table\excercise table\bin\Debug\MySql.Web.xml
+D:\C#\excercise table\excercise table\obj\Debug\excercise table.csproj.AssemblyReference.cache
+D:\C#\excercise table\excercise table\obj\Debug\excercise table.csproj.SuggestedBindingRedirects.cache
+D:\C#\excercise table\excercise table\obj\Debug\excercise table.exe.config
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form1.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form2.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form3.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form4.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form5.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form6.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Properties.Resources.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise table.csproj.GenerateResource.cache
+D:\C#\excercise table\excercise table\obj\Debug\excercise table.csproj.CoreCompileInputs.cache
+D:\C#\excercise table\excercise table\obj\Debug\excercise table.csproj.CopyComplete
+D:\C#\excercise table\excercise table\obj\Debug\excercise table.exe
+D:\C#\excercise table\excercise table\obj\Debug\excercise table.pdb
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form7.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form8.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form9.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.Form10.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.admin.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.way.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.exercise.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.editexcercise.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.editwarmup.resources
+D:\C#\excercise table\excercise table\obj\Debug\excercise_table.warmup.resources
